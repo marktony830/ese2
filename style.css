@@ -1,0 +1,23 @@
+  
+body{background-color: black;}
+
+h1{
+    font-size: large;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px salmon;
+    color: white;
+    text-align: center;
+}
+p{
+    font-size: large;
+    padding: 15px;
+    display: block;
+    color: white;
+}
+hr{
+    color: white;
+}
+footer{
+    color: white;
+    font-weight: bold;
+}
